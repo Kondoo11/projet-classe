@@ -26,3 +26,8 @@ body{
 #home a:visited{
     color: black;
 }
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
