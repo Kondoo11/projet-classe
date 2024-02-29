@@ -60,6 +60,7 @@ body{
     margin-left: 50px;
     margin-right: 50px;
     margin-bottom: 100px;
+   
 }
 #pages #row{
     height: 250px;
@@ -91,7 +92,14 @@ body{
 #row{
     text-align: center;
 }
+#row img{
+    height: 200px;
+}
 .video{
     margin: auto;
     width: 50%;
+}
+/*  */
+.content{
+    background: radial-gradient(white,bisque);
 }
